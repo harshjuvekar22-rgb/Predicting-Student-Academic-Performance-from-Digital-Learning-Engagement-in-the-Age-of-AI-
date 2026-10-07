@@ -1,0 +1,3 @@
+# Optional: only for train_keras.py
+-r requirements.txt
+tensorflow>=2.16
